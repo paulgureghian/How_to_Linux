@@ -3,4 +3,5 @@ A collection of You Tube videos.
 
 https://www.youtube.com/channel/UCYZnEiPrhJ2QCm3H5Utx_EA/videos
 
-
+How to install FreeCAD. 
+https://www.youtube.com/watch?v=lZ2lj8NOH24
