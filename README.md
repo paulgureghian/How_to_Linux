@@ -8,3 +8,6 @@ https://www.youtube.com/watch?v=lZ2lj8NOH24
 
 How to install Deb-Get.
 https://www.youtube.com/watch?v=1ZWlFdsnko8
+
+How to set a static IP address in Rocky Linux. 
+https://www.youtube.com/watch?v=jVDsL2_HjcU
