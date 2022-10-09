@@ -11,3 +11,6 @@ https://www.youtube.com/watch?v=1ZWlFdsnko8
 
 How to set a static IP address in Rocky Linux. 
 https://www.youtube.com/watch?v=jVDsL2_HjcU
+
+How to enable Wayland on Pop!_OS Linux 
+https://www.youtube.com/watch?v=ggdouB_1LT4
