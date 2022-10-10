@@ -14,3 +14,6 @@ https://www.youtube.com/watch?v=jVDsL2_HjcU
 
 How to enable Wayland on Pop!_OS Linux 
 https://www.youtube.com/watch?v=ggdouB_1LT4
+
+How to install Homebrew on Pop!_OS Linux 22.04
+https://www.youtube.com/watch?v=sq6E1DtOhDc
