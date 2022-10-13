@@ -20,3 +20,6 @@ https://www.youtube.com/watch?v=sq6E1DtOhDc
 
 How to install Waydroid on Pop!_OS Linux 22.04
 https://www.youtube.com/watch?v=_6MpDeIYUy4
+
+How to install Waydroid on Pop!_OS Linux 22.04
+https://www.youtube.com/watch?v=oPT7cAvXgbM
