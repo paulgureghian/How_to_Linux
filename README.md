@@ -23,3 +23,6 @@ https://www.youtube.com/watch?v=_6MpDeIYUy4
 
 How to install Waydroid on Pop!_OS Linux 22.04
 https://www.youtube.com/watch?v=oPT7cAvXgbM
+
+How to run a Java program on Pop!_OS Linux 22.04
+https://youtu.be/MAP9LMnYPPs
