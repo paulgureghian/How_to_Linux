@@ -29,3 +29,6 @@ https://youtu.be/MAP9LMnYPPs
 
 How to enable Ubuntu Pro on Ubuntu Linux 22.04
 https://www.youtube.com/watch?v=CUuhAv7oI4c
+
+How to check display server on Pop!_OS Linux 22.04
+https://www.youtube.com/watch?v=VWy0iXZQGHU
