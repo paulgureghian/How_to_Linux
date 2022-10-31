@@ -35,3 +35,6 @@ https://www.youtube.com/watch?v=VWy0iXZQGHU
 
 How to install Cockpit on Pop!_OS Linux 22.04
 https://www.youtube.com/watch?v=EoNdgotV_QM
+
+How to install Octopi on Endeavour_OS Linux
+https://www.youtube.com/watch?v=Phxu8getz4g
