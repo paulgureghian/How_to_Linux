@@ -38,3 +38,6 @@ https://www.youtube.com/watch?v=EoNdgotV_QM
 
 How to install Octopi on Endeavour_OS Linux
 https://www.youtube.com/watch?v=Phxu8getz4g
+
+How to install Hamachi on Ubuntu 
+https://www.youtube.com/watch?v=dlSmIjCdlTc
