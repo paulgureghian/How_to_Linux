@@ -41,3 +41,6 @@ https://www.youtube.com/watch?v=Phxu8getz4g
 
 How to install Hamachi on Ubuntu 
 https://www.youtube.com/watch?v=dlSmIjCdlTc
+
+How to install Visual Studio Code on Ubuntu Linux 22.04
+https://www.youtube.com/watch?v=8FnNOU9HcxM
