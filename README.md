@@ -44,3 +44,6 @@ https://www.youtube.com/watch?v=dlSmIjCdlTc
 
 How to install Visual Studio Code on Ubuntu Linux 22.04
 https://www.youtube.com/watch?v=8FnNOU9HcxM
+
+How to install Adobe Acrobat Reader on Pop!_OS Linux 22.04
+https://www.youtube.com/watch?v=DUFkbhOcVxo
