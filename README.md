@@ -50,3 +50,6 @@ https://www.youtube.com/watch?v=DUFkbhOcVxo
 
 How to install OpenVPN3 on Pop!_OS Linux 22.04
 https://www.youtube.com/watch?v=pPbrhUFFrwE
+
+How enable WebP support on Pop!_OS Linux 22.04
+https://www.youtube.com/watch?v=PEQa_3m_DKk
