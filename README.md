@@ -53,3 +53,6 @@ https://www.youtube.com/watch?v=pPbrhUFFrwE
 
 How enable WebP support on Pop!_OS Linux 22.04
 https://www.youtube.com/watch?v=PEQa_3m_DKk
+
+How to install the Nodejs runtime on Pop OS Linux 22.04
+https://www.youtube.com/watch?v=jM66BPLhhTA
