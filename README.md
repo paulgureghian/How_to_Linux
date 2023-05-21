@@ -59,3 +59,6 @@ https://www.youtube.com/watch?v=jM66BPLhhTA
 
 How to install the Arduino IDE on Pop OS Linux 22.04
 https://www.youtube.com/watch?v=HUwVRGVEgIE
+
+How to install Thunderbird on Linux Mint 21.1 
+https://www.youtube.com/watch?v=G_snqkvJs1I
