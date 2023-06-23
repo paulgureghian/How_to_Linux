@@ -62,3 +62,6 @@ https://www.youtube.com/watch?v=HUwVRGVEgIE
 
 How to install Thunderbird on Linux Mint 21.1 
 https://www.youtube.com/watch?v=G_snqkvJs1I
+
+How to install Bitwarden on Pop OS Linux
+https://www.youtube.com/watch?v=IhggZwBGAFA
