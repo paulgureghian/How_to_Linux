@@ -65,3 +65,6 @@ https://www.youtube.com/watch?v=G_snqkvJs1I
 
 How to install Bitwarden on Pop OS Linux
 https://www.youtube.com/watch?v=IhggZwBGAFA
+
+How to install Darktable on Pop OS Linux
+https://www.youtube.com/watch?v=GffHj3GJXhU
