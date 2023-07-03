@@ -68,3 +68,7 @@ https://www.youtube.com/watch?v=IhggZwBGAFA
 
 How to install Darktable on Pop OS Linux
 https://www.youtube.com/watch?v=GffHj3GJXhU
+
+How to install Snap on Fedora Linux
+https://www.youtube.com/watch?v=ZsW_r-93_p0
+
