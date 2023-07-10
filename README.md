@@ -72,3 +72,5 @@ https://www.youtube.com/watch?v=GffHj3GJXhU
 How to install Snap on Fedora Linux
 https://www.youtube.com/watch?v=ZsW_r-93_p0
 
+How to install Ruby on Rails on Rocky Linux 9.
+https://www.youtube.com/watch?v=Ezduq1xDl6Q
