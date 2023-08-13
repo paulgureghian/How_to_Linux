@@ -77,3 +77,6 @@ https://www.youtube.com/watch?v=Ezduq1xDl6Q
 
 How to install Virtual Box on Ubuntu
 https://www.youtube.com/watch?v=AX3-sAZp5Ww
+
+How to install Julia on Pop Linux
+https://www.youtube.com/watch?v=xCXVQiXSsLE
