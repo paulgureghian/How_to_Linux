@@ -80,3 +80,9 @@ https://www.youtube.com/watch?v=AX3-sAZp5Ww
 
 How to install Julia on Pop Linux
 https://www.youtube.com/watch?v=xCXVQiXSsLE
+
+How to install Brave browser on Pop OS Linux 
+https://www.youtube.com/watch?v=IlJCcMu_KIc
+
+
+
