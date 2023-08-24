@@ -84,5 +84,6 @@ https://www.youtube.com/watch?v=xCXVQiXSsLE
 How to install Brave browser on Pop OS Linux 
 https://www.youtube.com/watch?v=IlJCcMu_KIc
 
-
+How to install Brave browser on Open SUSE
+https://www.youtube.com/watch?v=2ra7bYmvo6Y
 
